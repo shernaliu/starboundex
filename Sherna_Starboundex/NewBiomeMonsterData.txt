@@ -1,0 +1,57 @@
+Gleaper|48|Yes|0|2|It's made from a springy substance.|8|Living Root, Figurine
+Nutmidge|100|Yes|2|1|Nutmidgelings frequently group together for safety, stacking inside a protective shell.|10|2 Nutmidgelings, 1 King Nutmidgeling
+Nutmidgeling|25|Yes|0|2|It often groups with other Nutmidgelings, finding strength and safety in numbers.|3|Nothing
+King Nutmidgeling|30|Yes|1|2|The king nutmidgeling is the only one whose head tuft hasn't been trampled to death.|3|Living Root, Figurine
+Poptop|60|Yes|2|1|The Poptop hums beautifully to confuse its prey.|14|Sharpened Claw, Figurine
+Adult Poptop|180|Yes|3|1|It's huge...|13|Sharpened Claw, Figurine
+Crustoise|50|Yes|4|3|The sharp spikes can penetrate any space boot.|8|Hardened Carapace, Figurine
+Tintic|55|Yes|4|3|It doesn't seem to eat or sleep... Is it a machine?|10|Hardened Carapace, Figurine
+Batong|50|Yes|0|4|By tasting the particles in the air it can sense what's ahead of it.|8|Leather, Figurine
+Spookit|45|Yes|0|4|When it closes its eyes it becomes immune to attacks by entering a different plane of existence.|8|Phase Matter, Figurine
+Peblit|48|Yes|2|1|Because of the size of its head in proportion to its body, it can't run long distances.|9|Hardened Carapace, Figurine
+Iguarmor|70|Yes|4|3|Iguarmor is not an aggressive species but the spikes on its tail can deal great damage.|9|Hardened Carapace, Figurine
+Scaveran|48|Yes|2|1|The inside of its beak is a truly terrifying sight.|8|Sharpened Claw, Figurine
+Voltip|65|Yes|4|6|The result of a scientific experiment gone wrong.|11|Static Cell, Figurine
+Fennix|50|Yes|4|6|Sometimes when chasing its own tail it can accidentally set itself on fire.|8|Scorched Core, Sharpened Claw, Figurine
+Lilodon|60|Yes|4|1|Its ancestors used to live in the sea. It might look small, but it's got a big bite.|11|Sharpened Claw, Figurine
+Petricub|65|Yes|2|1|It stares at you expectantly with its beady eyes.|12|Sharpened Claw, Figurine
+Quagmutt|65|Yes|4|1|Its unhygienic lifestyle leaves much to be desired.|14|Venom Sample, Figurine
+Paratail|50|Yes|0|5|During storms it attaches itself to trees so as not to blow away.|8|Leather, Figurine
+Wisper|30|Yes|0|5|Some believe Wispers are lost spirits. At night their glow can lead explorers astray.|9|Cryonic Extract, Phase Matter, Figurine
+Skimbus|55|Yes|0|5|Its lightweight body flows in the direction of the wind.|11|Cryonic Extract, Phase Matter, Figurine
+Pulpin|40|Yes|4|3|It has a sticky texture that allows it to climb surfaces with ease.|9|Cryonic Extract, Figurine
+Capricoat|75|Yes|4|6|Its thick coat keeps it warm in the coldest climates.|13|Leather, Figurine
+Ringram|50|Yes|0|7|The Ringram's horns start growing from birth and never stop.|11|Leather, Figurine
+Scandroid|30|Yes|4|4|The scandroid is on an endless search. No one knows what for.|9|Stick of RAM, Static Cell, Figurine
+Bobot|70|Yes|2|1|Nobody knows where it came from or who made it.|12|Stick of RAM, Static Cell, Figurine, Silicon Board, Copper Wire
+Pipkin|70|Yes|2|1|Despite appearing friendly, it is rarely seen interacting with other Pipkin.|11|Stick of RAM, Figurine
+Monopus|48|Yes|0|5|An ancient species, know to be agile and mischievous. They have an intelligent look in their eye.|10|Hardened Carapace, Figurine
+Snaggler|65|Yes|0|3|Its shell is impossible to penetrate which can make it a tricky foe.|9|Venom Sample, Figurine
+Oculob|65|Yes|0|3|It's unpleasant to look at. It's also unpleasant when it looks at you.|11|Venom Sample, Figurine
+Miasmop|55|Yes|2|1|Prolonged exposure to its pungent fumes will knock you out.|10|Venom Sample, Living Root, Figurine
+Sporgus|75|Yes|3|1|It prefers warm and moist climates where it'll grow quicker.|12|Venom Sample, Figurine
+Agrobat|35|Yes|0|4|Due to its sensitive eyes it prefers dark settings, like caves.|10|Leather, Figurine
+Gosmet|40|Yes|4|3|These creatures have ethereal bodies that they mould into armour when threatened.|10|Phase Matter, Figurine
+Squeem|40|Yes|0|5|Its movement is determined by temperature levels in the atmosphere.|10|Phase Matter, Figurine
+Snaunt|65|Yes|0|3|It's notorious for stealing from vegetable patches.|10|Venom Sample, Hardened Carapace, Figurine
+Pteropod|48|Yes|0|4|It brews a toxic paste in its pod made from fermented fruit.|9|Venom Sample, Figurine
+Crutter|65|Yes|4|1|Its poison is deadly even in small doses.|10|Venom Sample, Figurine
+Snuffish|25|Yes|0|8|They attack anyone that surprises them, and they're easily surprised.|3|Cryonic Extract, Figurine
+Crabcano|60|Yes|4|1|It's always on edge. It walks sideways and erupts at the slightest confrontation.|10|Scorched Core, Hardened Carapace, Figurine
+Pyromantle|48|Yes|0|5|They are intangible and can phase through blocks. When provoked, a Pyromantle sprays fiery gas clouds around it, inflicting the burning effect if they come into contact with the player.|8|Scorched Core, Figurine
+Ignome|50|Yes|0|5|Its charred surface is surprisingly pleasant to touch. Just keep away from the flames!|10|Scorched Core, Phase Matter, Figurine
+Smoglin|65|Yes|4|1|A chemical reaction in its belly makes its hot breath toxic.|10|Scorched Core, Figurine
+Anglure|80|Yes|2|1|At night, all you can see of the anglure is its light.|13|Static Cell, Figurine
+Lumoth|30|Yes|0|4|The bulb only stays lit while the Lumoth flaps its wings.|10|Static Cell, Phase Matter, Figurine
+Oogler|70|Yes|4|2|It appears mystified when encountering new life forms. You can't help but feel watched.|15|Leather, Sharpened Claw, Figurine
+Narfin|50|Yes|4|3|It uses its horns to attract a partner. The light shows during mating season are spectacular.|12|Cryonic Extract, Figurine
+Toumingo|55|Yes|2|1|Toumingo are a unique monster found in oasis mini biomes. Their main attack is to stand up straight on their legs and launch at the player with their head.|16|Sharpened Claw, Figurine
+Trictus|90|Yes|2|1|Its diet is made up of small amounts of water that it finds by digging into the ground.|13|Living Root, Figurine
+Mandraflora|120|Yes|3|1|Its sleepy lifestyle allows it to flourish underground and reach impressive sizes.|14|Living Root, Figurine
+Bulbop|35|Yes|0|2|It looks like a large and chunky leek. It bleeds when you cut it, though.|11|Living Root, Figurine
+Hypnare|48|Yes|2|1|It loves frolicking through forests and meadows.|10|Living Root, Figurine
+Yokat|80|Yes|2|1|Greedy and sly in nature. If disturbed whilst sneaking it will give you the evil eye.|14|Sharpened Claw, Figurine
+Orbide|48|Yes|2|1|Something about the way it limps makes you feel uncomfortable.|8|Sharpened Claw, Figurine
+Taroni|80|Yes|4|1|It eats and lives in tar. Signs suggest it excretes tar as well.|13|Leather, Figurine
+Hemogoblin|30|Yes|4|1|It's actually covered in red skin, but it's still pretty gross.|12|Sharpened Claw, Figurine
+Bobfae|65|Yes|2|4|Not the most efficient flyer, it's a mystery how bobfae have survived as a species.|10|Hardened Carapace, Figurine
