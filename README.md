@@ -2,6 +2,8 @@
 
 This project is a C++ console application developed by shernaliu for ST0296 - Data Structures & Algorithms using C++ back in 2016 in SP - DIT.
 
+The name of this application is called Starboundex.
+
 It is similar to a Pokedex, but the dataset used are the animals and monsters from the game Starbound.
 
 The purpose of this project is to demonstrate the use of:
